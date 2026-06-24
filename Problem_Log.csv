@@ -1,1 +1,2 @@
-Date,Problem,Pattern,Difficulty,Time(min),Solved Without Help,Y/N Notes,Need Re-Solve,Next Review Date
+Date,Problem,Pattern,Difficulty,Time(min),Solved Without Help,Y/N Notes,Need Re-Solve,Next Review Date,Recognition Sentence
+7/23/26,two-sum,hash,1,10,yes,yes,no,7/23 7/26 7/30,I need to trade space for time by using a hash map to remember numbers i've already seen so I can find the complement in 0(1) instead of searching the array again
