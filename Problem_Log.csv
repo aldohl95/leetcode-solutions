@@ -1,2 +1,4 @@
 Date,Problem,Pattern,Difficulty,Time(min),Solved Without Help,Y/N Notes,Need Re-Solve,Next Review Date,Recognition Sentence
 7/23/26,two-sum,hash,1,10,yes,yes,no,7/23 7/26 7/30,I need to trade space for time by using a hash map to remember numbers i've already seen so I can find the complement in 0(1) instead of searching the array again
+7/23/26,contains duplicate, set, 1, 10, yes, no , yes, 7/26/26, I knew this needed a set because I could compare a set list to determine if there are duplicates
+7/23/26, valid anagram,Hash, 2, 10, no, yes, yes, 7/26/26, I kmnew this was hash because I needed to know the freq of each letter and could use each letter as the key and the frequency as the value and compare at the end.
