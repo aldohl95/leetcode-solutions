@@ -5,3 +5,4 @@ Date,Problem,Pattern,Difficulty,Time(min),Solved Without Help,Y/N Notes,Need Re-
 6/24/26,Best Time to buy and sell stock, sliding window, 1, 10, no, yes, yes, 6/27 6/30,"When I need the maximum difference between a current value and an earlier value I should track the minimum value seen so far
 6/24/26,valid palindrome,two pointer, 1, 10, no, yes, yes, 6/27 6/30, i knew it was tow pointers since having to compare and track two differnt elements at once 
 6/24/26,Binary Search, Binary Search, 3, 20, no, yes, yes, 6/27 6/30, I knew it was binary search because it a search problem with a sorted list
+6/24/26,Reverse Linked List,Linked List, 3, 20, no, yes, yes, 6/27 6/30, I knew it required linked list beacuse the problem was reversing a linked list
