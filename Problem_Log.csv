@@ -7,3 +7,6 @@ Date,Problem,Pattern,Difficulty,Time(min),Solved Without Help,Y/N Notes,Need Re-
 6/24/26,Binary Search, Binary Search, 3, 20, no, yes, yes, 6/27 6/30, I knew it was binary search because it a search problem with a sorted list
 6/24/26,Reverse Linked List,Linked List, 3, 20, no, yes, yes, 6/27 6/30, I knew it required linked list beacuse the problem was reversing a linked list
 6/24/26,Invert Binary Tree,Binary Tree, 3, 20, no, yes, yes, 6/27 6/30, I knew it was a binary tree problem because of the tree involved
+6/25/26,Isomorphic strings, Hash table, 4, 20, no, yes, yes, 6/28, I knew it was hashmap because It wanted to map two elements to each other
+6/25/26, subsequece, two pointer, 3, 20, no, yes, yes, 6/28, I knew it was two pointer because I needed to keep track of where I was in two places at once
+6/25/26, top K frequent elements, hash table, 6, 30, no, yes, yes, 2/28, I knew it was hastable because I need to assign a value to a certain key.

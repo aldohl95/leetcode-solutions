@@ -45,3 +45,25 @@ def binarySearch(self, nums: List[int], target: int) -> int:
       r = mid - 1
   
   return -1
+
+def twoSum(self, nums: List[int], target: int) -> int:
+  seen = {}
+
+  for i in range(len(nums)):
+    complement = target - nums[i]
+    if complement in seen:
+      return [seen[nums[i]], i]
+    seen[complement] = i
+
+def reverseLinkedList(self, head: Optional[ListNode]) -> Optional[TreeNode]:
+  prev, curr = None, head
+
+  while curr:
+    next_node = curr.next
+    curr.next = prev
+
+    prev = curr
+    curr = next_node
+  
+  return prev
+
