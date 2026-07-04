@@ -10,3 +10,5 @@ Date,Problem,Pattern,Difficulty,Time(min),Solved Without Help,Y/N Notes,Need Re-
 6/25/26,Isomorphic strings, Hash table, 4, 20, no, yes, yes, 6/28, I knew it was hashmap because It wanted to map two elements to each other
 6/25/26, subsequece, two pointer, 3, 20, no, yes, yes, 6/28, I knew it was two pointer because I needed to keep track of where I was in two places at once
 6/25/26, top K frequent elements, hash table, 6, 30, no, yes, yes, 2/28, I knew it was hastable because I need to assign a value to a certain key.
+7/4/26, Two Sum II, two pointer, 1, 8, yes, no, yes, 7/7, I knew it was two pointer because array was sorted and needed to find two values that satisfy a condition
+7/4/26, Constains Most Water, two Pointer, 1, 9, yes, no, yes, 7/7, I knew it was two pointer because needed to find the area/distance formed by two elements
