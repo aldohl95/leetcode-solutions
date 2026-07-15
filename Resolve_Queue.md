@@ -1,3 +1,4 @@
 reorderList
 removeNthNodeFromLast
-
+CopyRandomList
+addTwo Numbers
