@@ -1,5 +1,3 @@
-Longest repeating character replacement
-permutation string
 reorderList
 removeNthNodeFromLast
 
